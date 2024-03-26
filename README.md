@@ -1,1 +1,1 @@
-# hockeyBruno
+# Migthy Ducks Hockey League
